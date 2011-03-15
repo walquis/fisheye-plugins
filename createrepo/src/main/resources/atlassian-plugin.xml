@@ -1,0 +1,12 @@
+<atlassian-plugin key="${project.groupId}.${project.artifactId}" name="${project.name}" plugins-version="2">
+    <plugin-info>
+        <description>${project.description}</description>
+        <version>${project.version}</version>
+        <vendor name="${project.organization.name}" url="${project.organization.url}" />
+    </plugin-info>
+
+    <servlet name="${project.artifactId}" class="com.drw.fisheye_plugin.RepoCreatorServlet" key="repocreator-servlet">
+        <description>Servlet Module for creating, enabling, and starting a repository in FishEye</description>
+        <url-pattern>/create-repo</url-pattern>
+    </servlet>
+</atlassian-plugin>

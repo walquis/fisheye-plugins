@@ -1,0 +1,1 @@
+This jar was rebuilt with excludes=org/apache/commons/collections/**
