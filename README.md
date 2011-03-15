@@ -36,3 +36,16 @@ Other Notes
 ----------
 
 * The lib directory was copied from target/fecru/home/lib, created by a Maven build of fecrutwitter.
+
+Useful links
+------------
+
+* [Plugin project hosting site](https://studio.plugins.atlassian.com/secure/Dashboard.jspa)
+* [Atlassian Developer Network](http://confluence.atlassian.com/display/DEVNET/Welcome+to+the+Atlassian+Developer+Network)
+* [FishEye/Crucible Developer Documentation](http://confluence.atlassian.com/display/FECRUDEV/FishEye+and+Crucible+Developer+Documentation)
+* [FishEye/Crucible Java API](http://confluence.atlassian.com/display/FECRUDEV/Java+API] (also linked above, in "how to use service interfaces")
+* [Components of the Plugin Development Platform](http://confluence.atlassian.com/display/DEVNET/Atlassian+Plugin+Development+Platform)
+* [Setting up your Plugin Development Environment](http://confluence.atlassian.com/display/DEVNET/Setting+up+your+Plugin+Development+Environment)
+* [Developing your Plugin using the Atlassian Plugin SDK](http://confluence.atlassian.com/display/DEVNET/Developing+your+Plugin+using+the+Atlassian+Plugin+SDK)
+* [Javadocs for RepositoryAdminService](http://docs.atlassian.com/fisheye-crucible/2.2.1/javadoc/com/atlassian/fisheye/spi/admin/services/RepositoryAdminService.html)
+
